@@ -1,6 +1,6 @@
-# 🌍 NGO Responsive Website
+# 🌍 COMPANY Responsive Website
 
-This is a **responsive NGO website** built using **HTML and CSS**.  
+This is a **responsive COMPANY website** built using **HTML and CSS**.  
 It is designed to raise awareness, showcase NGO activities, and encourage people to support through donations or volunteering.  
 
 ---
